@@ -1,0 +1,10 @@
+﻿*.pth
+frames/
+style_frames/
+flow/
+models/
+database_video/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
